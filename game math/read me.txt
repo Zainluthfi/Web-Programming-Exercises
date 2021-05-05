@@ -1,0 +1,6 @@
+Nama : Muhammad Zain Nur Luthfi
+NIM : K3519060
+
+game ini akan menampilkan soal penjumlahan sederhana antara dua bilangan antara 0 s/d 20. pemain mendapat 5 kali kesempatan dan jika kesempatan habis maka permainan selesai. Pemain yang berhasil menjawab satu soal akan medapatkan skor 10 dan apabila salah menjawab maka skor dikurangi 2 dan kesempatan bermain berkurang 1.
+
+Link: https://gamemathuts.000webhostapp.com/
